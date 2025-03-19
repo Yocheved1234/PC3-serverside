@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u05D1\u05E0\u05D5\u05EA\\\u05D9\u05D5\u05DB\u05D1\u05D3\\\u200F\u200F\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 3\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50AF0A8E-3220-4175-A26C-FB6727042028}|TodoApi.csproj|c:\\\u05D1\u05E0\u05D5\u05EA\\\u05D9\u05D5\u05DB\u05D1\u05D3\\\u200F\u200F\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 3\\todoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50AF0A8E-3220-4175-A26C-FB6727042028}|TodoApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50AF0A8E-3220-4175-A26C-FB6727042028}|TodoApi.csproj|c:\\\u05D1\u05E0\u05D5\u05EA\\\u05D9\u05D5\u05DB\u05D1\u05D3\\\u200F\u200F\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 3\\todoapi\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50AF0A8E-3220-4175-A26C-FB6727042028}|TodoApi.csproj|solutionrelative:tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\\u05D1\u05E0\u05D5\u05EA\\\u05D9\u05D5\u05DB\u05D1\u05D3\\\u200F\u200F\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 3\\TodoApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\\u05D1\u05E0\u05D5\u05EA\\\u05D9\u05D5\u05DB\u05D1\u05D3\\\u200F\u200F\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 3\\TodoApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T22:58:14.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\\u05D1\u05E0\u05D5\u05EA\\\u05D9\u05D5\u05DB\u05D1\u05D3\\\u200F\u200F\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 3\\TodoApi\\ToDoDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoDbContext.cs",
+              "ToolTip": "C:\\\u05D1\u05E0\u05D5\u05EA\\\u05D9\u05D5\u05DB\u05D1\u05D3\\\u200F\u200F\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 3\\TodoApi\\ToDoDbContext.cs",
+              "RelativeToolTip": "ToDoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:53:34.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
